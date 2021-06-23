@@ -6,7 +6,7 @@ CSDN:[SeriousLose](https://blog.csdn.net/SeriousLose) / 公众号:[SeriousLose](
 <code><img height='20' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'></code>
 <code><img height='20' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png'></code>
 <code><img height='20' src='https://files.catbox.moe/v7cgny.png'></code>
-<code><img height='20' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png'></code>
+<code><img height='20' src='https://files.catbox.moe/h2cix6.png'></code>
 <code><img height='20' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeriousLose&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
