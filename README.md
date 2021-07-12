@@ -12,7 +12,7 @@ CSDN:[SeriousLose](https://blog.csdn.net/SeriousLose) / 公众号:[SeriousLose](
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeriousLose&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![SeriousLose的Github统计信息](https://github-readme-stats.vercel.app/api?username=SeriousLose&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/SeriousLose/greedy-snake/blob/output/github-snake.gif">
+<img src="https://github.com/SeriousLose/greedy-snake/blob/output/github-snake.gif?raw=true">
 
 <!--
 **SeriousLose/SeriousLose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
