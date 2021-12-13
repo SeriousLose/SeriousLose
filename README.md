@@ -1,6 +1,6 @@
 ### 嗨,我是Fly
 
-CSDN:[SeriousLose](https://blog.csdn.net/SeriousLose) / 公众号:[SeriousLose](http://open.weixin.qq.com/qr/code?username=SeriousLose) / LeetCode:[SeriousLose](https://leetcode-cn.com/u/seriouslose/)
+CSDN:[SeriousLose](https://blog.csdn.net/SeriousLose) / 公众号:[SeriousLose](http://open.weixin.qq.com/qr/code?username=SeriousLose) / LeetCode:[SeriousLose](https://leetcode-cn.com/u/seriouslose/) / Notion:[SeriousLose](https://serious-lose.notion.site/Study-908a41af3169400c8b6ebf61235d61c9)
 
  **语言和工具：**
 <code><img height='20' src='https://files.catbox.moe/v7cxp6.jpg'></code>
